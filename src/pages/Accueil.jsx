@@ -1,7 +1,7 @@
 
 function Accueil () {
     return (
-        <h1>Bonjour</h1>
+        <h1>Bonjour HEH</h1>
     )
 }
 
